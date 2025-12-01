@@ -7,7 +7,6 @@ const trackedButtons = [
   { id: "click_tiktok", label: "social_tiktok" },
   { id: "click_shopee", label: "social_linktree" },
   { id: "click_wa", label: "social_whatsapp" },
-  { id: "click_github", label: "social_github" }, // Tombol GitHub Baru
 ];
 
 // FUNGSI KIRIM DATA KE GTM
